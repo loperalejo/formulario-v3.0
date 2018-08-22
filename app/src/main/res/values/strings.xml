@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">formulario v3.0</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="fecha">dd/mm/aaaa</string>
+    <string name="deporte">Deporte</string>
+    <string name="musica">Musica</string>
+    <string name="teatro">Teatro</string>
+    <string name="viaje">Viaje</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo</string>
+    <string name="sexo">Sexo</string>
+    <string name="fechaN">Fecha de nacimiento</string>
+    <string name="lugar">Lugar de nacimiento</string>
+    <string name="hobbie">Hobbies</string>
+    <string name="nombrecompleto">Nombre completo</string>
+</resources>
